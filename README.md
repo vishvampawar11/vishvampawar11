@@ -1,5 +1,5 @@
-<h2 >Hi there 👋, I'm Vishvam Pawar </h2>
-<h4>I'm a third year student at the Pune Institute of Computer Technology studying Information Technology. I am currently exploring web development and competitive programming. </h4>
+<h2 >Hi there 👋, I'm Vishvam </h2>
+<h4>I'm a student at the Pune Institute of Computer Technology studying Information Technology. I am currently exploring web development and competitive programming. </h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
